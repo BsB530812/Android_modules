@@ -1,6 +1,6 @@
 # Android_modules
 # 免责声明：刷入本仓库的包出现的一切问题由机主自行负责！
-HyperOS锁120hz的包：
+HyperOS锁120hz的包:
 (参考帖子)
 https://www.coolapk.com/feed/68630488?s=NDEyNTcwMjMxZTQxZDZmZzZhMWYxMWY5ega1622
 模块由 claude 编写;
